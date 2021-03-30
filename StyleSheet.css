@@ -1,0 +1,145 @@
+body {
+    background-color: #8b0000;
+}
+
+h1 {
+    color: white;
+    width: 1309px;
+    border: 15px solid #cc0000;
+    padding: 50px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    background-color: #cc0000;
+    position: absolute;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 360px;
+    margin-top: 135px;
+    position: absolute;
+}
+
+li {
+    float: left;
+  }
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+  }
+
+li a:hover {
+    background-color: #8b0000;
+}
+
+h2 {
+    color: Black;
+    width: 1397px;
+    border: 15px solid #eea690;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    background-color: #eea690;
+    margin-top: 205px;
+    position: absolute;
+    padding-bottom: 1000px;
+    padding-left: 12px;
+    padding-top: 12px;
+}
+
+#RICE-Logo {
+    position: absolute;
+    width: 500px;
+    border: 3px solid black;
+    margin-left: 49px;
+    margin-top: 310px;
+    padding-right: 140px;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h3 {
+    margin-left: 72px;
+    margin-top: 325px;
+    color: white;
+    position: absolute;
+    border: 7px solid #8b0000;
+    background-color: #8b0000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 337px;
+    padding-left: 250px;
+}
+
+#PockyProfPic {
+    margin-left: 1000px;
+    margin-top: 312px;
+    width: 200px;
+    position: absolute;
+    border: 3px solid black;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 25px; 
+}
+
+#featured-project {
+    position: absolute;
+    color: white;
+    margin-left: 1017.5px;
+    margin-top: 350px;
+    background-color: #8b0000;
+    border: 5px solid #8b0000;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 76px;
+    padding-left: 66px;
+}
+
+#instagram {
+    position: absolute;
+    color: #cc0000;
+    margin-left: 1000px;
+    margin-top: 700px;
+    border: 3px solid black;
+    padding-top: 100px;
+    padding-bottom: 206px;
+    padding-left: 107px;
+    padding-right: 122px;
+}
+
+#connect {
+    position: absolute;
+    color: white;
+    margin-left: 1017.5px;
+    margin-top: 737.5px;
+    background-color: #8b0000;
+    border: 5px solid #8b0000;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 105px;
+    padding-left: 95px;
+}
+
+#twitter {
+    position: absolute;
+    color: #cc0000;
+    margin-left: 1111px;
+    margin-top: 840px;
+}
+#email {
+    position: absolute;
+    color: #cc0000;
+    margin-left: 1111px;
+    margin-top: 880px;
+}
